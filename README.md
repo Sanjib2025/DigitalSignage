@@ -1,4 +1,4 @@
-# digitalksignage
+# digitalsignage
 QA Lead – Digital Signage System Modernization for Healthcare
 ![image](https://github.com/user-attachments/assets/24cdcdb0-2068-4e18-b4c5-ac390a2ca0e4)
 
